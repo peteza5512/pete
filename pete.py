@@ -1,3 +1,6 @@
 print('hello dollar')
 print('hello dollar')
 print('hello dollar')
+print('hello pete')
+print('hello pete')
+print('hello pete')
